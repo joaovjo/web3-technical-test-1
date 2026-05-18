@@ -1,0 +1,86 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# Distribution / packaging
+build/
+dist/
+eggs/
+parts/
+sdist/
+var/
+wheels/
+pip-wheel-metadata/
+*.egg-info/
+
+# Installer logs
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Unit test / coverage reports
+.pytest_cache/
+.tox/
+.nox/
+.coverage
+.coverage.*
+.cache
+htmlcov/
+nosetests.xml
+coverage.xml
+*.cover
+.hypothesis/
+
+# PyInstaller
+*.manifest
+*.spec
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# pyenv
+.python-version
+
+# virtualenv / venv
+env/
+venv/
+.venv/
+ENV/
+env.bak/
+venv.bak/
+
+# dotenv
+.env
+.env.*.local
+
+# IDEs and editors
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# Editor swap files, OS files
+*~
+.DS_Store
+
+# Logs
+*.log
+
+# Type checkers
+.mypy_cache/
+.pyre/
+
+# Misc
+*.egg
+*.egg-info
+build/
+dist/
+
+# Optional: Solidity/web3 artifacts (uncomment if used)
+# .openzeppelin/
+# artifacts/
+# build/contract/
+
